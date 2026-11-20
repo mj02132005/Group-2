@@ -1,0 +1,6 @@
+file = open("student.txt", "w")
+file.write("Alex,BSIT,1")
+file.close()
+file = open("student.txt", "r")
+print(file.read())
+file.close()

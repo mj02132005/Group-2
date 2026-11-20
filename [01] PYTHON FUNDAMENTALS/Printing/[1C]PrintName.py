@@ -1,0 +1,5 @@
+print("STUDENT INFORMATION")
+print("=" * 25)
+print("Name: Alex")
+print("Course: BSIT")
+print("Year: 1")

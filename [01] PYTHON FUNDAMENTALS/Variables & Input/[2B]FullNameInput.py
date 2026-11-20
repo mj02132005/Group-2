@@ -1,0 +1,5 @@
+name = input("Name: ")
+age = int(input("Age: "))
+course = input("Course: ")
+print("\nSTUDENT PROFILE")
+print(f"Name: {name}\nAge: {age}\nCourse: {course}")
